@@ -1,0 +1,12 @@
+c:\users\jailton\source\repos\LanLink\LanLink\bin\Debug\netcoreapp2.0\LanLink.deps.json
+c:\users\jailton\source\repos\LanLink\LanLink\bin\Debug\netcoreapp2.0\LanLink.runtimeconfig.json
+c:\users\jailton\source\repos\LanLink\LanLink\bin\Debug\netcoreapp2.0\LanLink.runtimeconfig.dev.json
+c:\users\jailton\source\repos\LanLink\LanLink\bin\Debug\netcoreapp2.0\LanLink.dll
+c:\users\jailton\source\repos\LanLink\LanLink\bin\Debug\netcoreapp2.0\LanLink.pdb
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.csprojResolveAssemblyReference.cache
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.csproj.CoreCompileInputs.cache
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.AssemblyInfoInputs.cache
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.AssemblyInfo.cs
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.dll
+c:\users\jailton\source\repos\LanLink\LanLink\obj\Debug\netcoreapp2.0\LanLink.pdb
